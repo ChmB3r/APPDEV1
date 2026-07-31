@@ -1,0 +1,9 @@
+
+
+Enhance the current design to look like a professional site  by following:
+  1. change the current design of the Songs by adding it into a card without adding or removing any given except its CSS design.
+  2. Keep the body bg look by the current design but enhancing it if its look plain.
+  3. enhance the header by adding the YT Music Icon and other.
+  4. make it the song playable in the card and also showing its thumbnail image.
+  5.Enchance the current  footer.
+  6. Don't limit the design by the Instructions but not ignoring it.
