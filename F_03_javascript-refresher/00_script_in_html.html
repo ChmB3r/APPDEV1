@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Script Basics</title>
+</head>
+<body>
+  <h1>Page still loading...</h1>
+ 
+  <script>
+    console.log("Inline script ran");
+  </script>
+  
+  <!-- The async attribute tells the browser to download the script in the background while parsing the HTML, then execute it immediately after it finishes downloading -->
+  <script src="app.js"></script>
+
+  // This is asynchronous script
+
+  <!-- 
+  Module script: waits for HTML parsing to finish (like defer),
+  runs once, has its own scope, and CAN use import/export
+  -->
+  <script type="module" src="app.js"></script>
+
+  <!-- Module script -->
+<script type="module">
+  import { userInfo } from "./15_modules_export.js";
+  console.log(userInfo.name);
+</script>
+  </body>
+</html>
