@@ -43,3 +43,13 @@
 
 - The first log is an array that contains the basic information of the user.
 - The second log is the hobby of the user.
+
+### 06_control_structure.js
+
+- Ive learned the loops, conditional statements and the basic of loops and conditional statements.
+
+## Example:
+
+- The first log is a loop that counts from 1 to 10.
+- The second log is a conditional statement that checks if the grade is "A" so it will print the "Excellent" and so on.
+- I tried to disasemble the code and make the AI to coorect and explain the error and also fixed it.
