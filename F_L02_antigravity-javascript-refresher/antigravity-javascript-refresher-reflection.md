@@ -15,3 +15,13 @@
 - The first log "5" is a string and the second log "5" is a number.
 - "5" == 5 is true because it is a loose equality.
 - "5" === 5 is false because it is a strict equality.
+
+### 03_functions.js
+
+- Ive learned how to create a functions and the basic of arrow function and destructuring.
+
+## Example:
+
+- The first log is a function that returns a string.
+- The second log is a arrow function that returns a number.
+- The third and fourth log are functions that returns a sum and product of the given numbers.
