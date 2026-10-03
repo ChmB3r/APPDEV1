@@ -25,3 +25,12 @@
 - The first log is a function that returns a string.
 - The second log is a arrow function that returns a number.
 - The third and fourth log are functions that returns a sum and product of the given numbers.
+
+### 04_objects.js
+
+- I learned how to create an object and the basic of object destructuring.
+
+## Example:
+
+- The first log is an object that contains the basic information of the user.
+- The second log is the hobby of the user.
