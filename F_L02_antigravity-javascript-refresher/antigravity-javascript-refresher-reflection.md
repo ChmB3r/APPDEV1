@@ -34,3 +34,12 @@
 
 - The first log is an object that contains the basic information of the user.
 - The second log is the hobby of the user.
+
+### 05_arrays.js
+
+- I learned how to create an array and the basic of array destructuring.
+
+## Example:
+
+- The first log is an array that contains the basic information of the user.
+- The second log is the hobby of the user.
