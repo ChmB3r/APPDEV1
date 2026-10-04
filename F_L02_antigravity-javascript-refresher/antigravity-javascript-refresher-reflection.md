@@ -73,3 +73,7 @@
 ### 11_arrow_functions.js
 
 - Implicit return suits one-line expressions, and a function body suits multiple steps. This is the same syntax React uses for inline event handlers like onClick.
+
+### 12_destructuring.js
+
+- Destructuring pulls values out of objects and arrays, including directly in function parameters. This is exactly how React components receive props.
