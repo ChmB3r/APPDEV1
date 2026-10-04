@@ -69,3 +69,7 @@
 ### 10_let_const.js
 
 - I default to const and use let only when a value must change. var has function scope and hoisting quirks, so I avoid it.
+
+### 11_arrow_functions.js
+
+- Implicit return suits one-line expressions, and a function body suits multiple steps. This is the same syntax React uses for inline event handlers like onClick.
