@@ -61,3 +61,7 @@
 ### 08_essential_features.js
 
 - I've learned that the .map() is used to transform an array, Destructuring pulls values out of an object, and .spread is used to copy an array while adding to it.
+
+### 09_tricky_parts.js
+
+- Writing predictions before running the file showed me where my intuition was wrong. Copying by reference and copying with spread are very different, and that difference causes real bugs.
