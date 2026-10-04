@@ -65,3 +65,7 @@
 ### 09_tricky_parts.js
 
 - Writing predictions before running the file showed me where my intuition was wrong. Copying by reference and copying with spread are very different, and that difference causes real bugs.
+
+### 10_let_const.js
+
+- I default to const and use let only when a value must change. var has function scope and hoisting quirks, so I avoid it.
