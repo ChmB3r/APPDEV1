@@ -57,3 +57,7 @@
 ### 07_dom_html.js
 
 - The button's click listener changes the page right away, and setTimeout delays the paragraph update. Clicking, waiting, and watching proved the behavior better than just reading the code.
+
+### 08_essential_features.js
+
+- I've learned that the .map() is used to transform an array, Destructuring pulls values out of an object, and .spread is used to copy an array while adding to it.
