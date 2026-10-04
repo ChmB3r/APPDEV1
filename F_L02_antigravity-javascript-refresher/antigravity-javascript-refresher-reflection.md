@@ -77,3 +77,7 @@
 ### 12_destructuring.js
 
 - Destructuring pulls values out of objects and arrays, including directly in function parameters. This is exactly how React components receive props.
+
+### 13_spread_rest.js
+
+- Spread makes a safe copy, and rest gathers arguments into an array. Logging the originals after copying proved nothing was mutated, which matters for React state updates.
