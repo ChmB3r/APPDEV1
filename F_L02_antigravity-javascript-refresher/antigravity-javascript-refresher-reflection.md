@@ -53,3 +53,7 @@
 - The first log is a loop that counts from 1 to 10.
 - The second log is a conditional statement that checks if the grade is "A" so it will print the "Excellent" and so on.
 - I tried to disasemble the code and make the AI to coorect and explain the error and also fixed it.
+
+### 07_dom_html.js
+
+- The button's click listener changes the page right away, and setTimeout delays the paragraph update. Clicking, waiting, and watching proved the behavior better than just reading the code.
